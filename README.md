@@ -2,9 +2,9 @@
 
 End to end statistical analysis of a 3,000 record Sydney residential property sales dataset, built entirely in Microsoft Excel. The project covers data cleaning, lookup functions, descriptive statistics, hypothesis testing, correlation, regression, and the Data Analysis ToolPak (two sample t-test and one way ANOVA).
 
-**Author:** Huynh Thien Luan (Ethan) Dang
-**Unit:** BUSA6004 Introduction to Inference, Modelling, and Forecasting, Macquarie University
-**Tools:** Microsoft Excel (formulas, charts, Data Analysis ToolPak)
+**Author:** Huynh Thien Luan (Ethan) Dang <br>
+**Unit:** BUSA6004 Introduction to Inference, Modelling, and Forecasting, Macquarie University <br>
+**Tools:** Microsoft Excel (formulas, charts, Data Analysis ToolPak) <br>
 
 ---
 
