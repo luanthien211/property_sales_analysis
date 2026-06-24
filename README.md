@@ -36,7 +36,7 @@ End to end statistical analysis of a 3,000 record Sydney residential property sa
 ## Analysis walkthrough
 
 ### 1. Data cleaning
-Filtered the dataset to the assigned partition and removed five records that failed validation: a negative bedroom count, a placeholder agent name, a dessert in the Property Type field, a construction year in the future, and a property with zero land size. Full detail in the [report](report/BUSA6004_Report.pdf).
+Filtered the dataset to the assigned partition and removed five records that failed validation: a negative bedroom count, a placeholder agent name, a dessert in the Property Type field, a construction year in the future, and a property with zero land size. Full detail in the [report](report/report.pdf).
 
 ### 2. Lookup functions
 Filled the council area for each suburb twice, once with VLOOKUP and once with XLOOKUP, then confirmed the two columns matched. This demonstrates both the legacy and modern Excel lookup approaches and a habit of cross checking results.
