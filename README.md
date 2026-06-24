@@ -86,12 +86,12 @@ busa6004-property-sales-excel-analysis/
 ├── workbook/
 │   └── property_sales_analysis.xlsx     Full Excel workbook (all questions, formulas, charts)
 ├── report/
-│   └── BUSA6004_Report.pdf              Written report with annotated formulas and interpretation
-├── figures/                            Charts and Data Analysis ToolPak output
+│   └── report.pdf                       Written report with annotated formulas and interpretation
+├── figures/                             Charts and Data Analysis ToolPak output
 └── data/
-    └── DATA_DICTIONARY.md              Column definitions and cleaning notes
+    └── DATA_DICTIONARY.md               Column definitions and cleaning notes
 ```
 
 ## How to explore
 
-Open `workbook/property_sales_analysis.xlsx` to inspect every formula and chart across the question tabs, or read `report/BUSA6004_Report.pdf` for the full written analysis with interpretation. The figures in this README are clean reproductions of the workbook outputs alongside the original ToolPak result tables.
+Open `workbook/property_sales_analysis.xlsx` to inspect every formula and chart across the question tabs, or read `report/report.pdf` for the full written analysis with interpretation. The figures in this README are clean reproductions of the workbook outputs alongside the original ToolPak result tables.
